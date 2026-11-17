@@ -1,0 +1,3445 @@
+[
+  {
+    "key": "hug",
+    "text": "抱抱",
+    "scene": "抱一个就不许跑了",
+    "tags": [
+      "抱抱",
+      "拥抱",
+      "安慰",
+      "暖心"
+    ],
+    "file": "hug.png"
+  },
+  {
+    "key": "hugtight",
+    "text": "抱紧",
+    "scene": "不松手的那种",
+    "tags": [
+      "抱紧",
+      "拥抱",
+      "黏人",
+      "安慰"
+    ],
+    "file": "hugtight.png"
+  },
+  {
+    "key": "hug3",
+    "text": "抱一下就好",
+    "scene": "就一下",
+    "tags": [
+      "抱抱",
+      "安慰",
+      "难过",
+      "撒娇"
+    ],
+    "file": "hug3.png"
+  },
+  {
+    "key": "kiss",
+    "text": "亲亲",
+    "scene": "就、就一下",
+    "tags": [
+      "亲亲",
+      "么么",
+      "喜欢",
+      "害羞"
+    ],
+    "file": "kiss.png"
+  },
+  {
+    "key": "kiss2",
+    "text": "木马",
+    "scene": "啵你一口",
+    "tags": [
+      "亲亲",
+      "木马",
+      "喜欢",
+      "调皮"
+    ],
+    "file": "kiss2.png"
+  },
+  {
+    "key": "nuzzle",
+    "text": "蹭蹭",
+    "scene": "毛都要蹭掉了",
+    "tags": [
+      "蹭蹭",
+      "撒娇",
+      "黏人",
+      "亲密"
+    ],
+    "file": "nuzzle.png"
+  },
+  {
+    "key": "snuggle",
+    "text": "蹭脸",
+    "scene": "脸贴脸",
+    "tags": [
+      "蹭脸",
+      "亲密",
+      "撒娇",
+      "害羞"
+    ],
+    "file": "snuggle.png"
+  },
+  {
+    "key": "patme",
+    "text": "求摸头",
+    "scene": "我很乖的",
+    "tags": [
+      "摸头",
+      "求摸",
+      "乖",
+      "撒娇"
+    ],
+    "file": "patme.png"
+  },
+  {
+    "key": "headpat",
+    "text": "顺毛",
+    "scene": "别炸毛啦",
+    "tags": [
+      "顺毛",
+      "摸头",
+      "安慰",
+      "乖"
+    ],
+    "file": "headpat.png"
+  },
+  {
+    "key": "pat2",
+    "text": "拍拍",
+    "scene": "拍拍你",
+    "tags": [
+      "拍拍",
+      "安慰",
+      "鼓励",
+      "乖"
+    ],
+    "file": "pat2.png"
+  },
+  {
+    "key": "stick",
+    "text": "贴贴",
+    "scene": "紧紧贴着",
+    "tags": [
+      "贴贴",
+      "亲密",
+      "黏人",
+      "撒娇"
+    ],
+    "file": "stick.png"
+  },
+  {
+    "key": "heart",
+    "text": "比心",
+    "scene": "给你",
+    "tags": [
+      "比心",
+      "喜欢",
+      "爱",
+      "示爱"
+    ],
+    "file": "heart.png"
+  },
+  {
+    "key": "love",
+    "text": "爱你",
+    "scene": "说出来了",
+    "tags": [
+      "爱你",
+      "喜欢",
+      "表白",
+      "害羞"
+    ],
+    "file": "love.png"
+  },
+  {
+    "key": "dokidoki",
+    "text": "心动",
+    "scene": "砰砰跳",
+    "tags": [
+      "心动",
+      "喜欢",
+      "害羞",
+      "恋爱"
+    ],
+    "file": "dokidoki.png"
+  },
+  {
+    "key": "shy",
+    "text": "害羞",
+    "scene": "别、别看了",
+    "tags": [
+      "害羞",
+      "脸红",
+      "不好意思"
+    ],
+    "file": "shy.png"
+  },
+  {
+    "key": "shy2",
+    "text": "脸红了",
+    "scene": "都是你害的",
+    "tags": [
+      "脸红",
+      "害羞",
+      "别扭",
+      "被夸"
+    ],
+    "file": "shy2.png"
+  },
+  {
+    "key": "blush",
+    "text": "红脸",
+    "scene": "热死了",
+    "tags": [
+      "脸红",
+      "害羞",
+      "热",
+      "不好意思"
+    ],
+    "file": "blush.png"
+  },
+  {
+    "key": "wink",
+    "text": "眨眼",
+    "scene": "懂了吧",
+    "tags": [
+      "眨眼",
+      "调皮",
+      "暗示",
+      "得意"
+    ],
+    "file": "wink.png"
+  },
+  {
+    "key": "lift",
+    "text": "举高高",
+    "scene": "要要要",
+    "tags": [
+      "举高高",
+      "抱",
+      "玩",
+      "撒娇"
+    ],
+    "file": "lift.png"
+  },
+  {
+    "key": "rub",
+    "text": "揉脸",
+    "scene": "软乎乎的",
+    "tags": [
+      "揉脸",
+      "软",
+      "可爱",
+      "亲密"
+    ],
+    "file": "rub.png"
+  },
+  {
+    "key": "pinch",
+    "text": "捏脸",
+    "scene": "轻一点啦",
+    "tags": [
+      "捏脸",
+      "调戏",
+      "可爱",
+      "害羞"
+    ],
+    "file": "pinch.png"
+  },
+  {
+    "key": "boop",
+    "text": "戳戳",
+    "scene": "戳你一下",
+    "tags": [
+      "戳",
+      "调皮",
+      "互动",
+      "可爱"
+    ],
+    "file": "boop.png"
+  },
+  {
+    "key": "poke",
+    "text": "戳一下",
+    "scene": "在不在",
+    "tags": [
+      "戳",
+      "在吗",
+      "互动",
+      "找人"
+    ],
+    "file": "poke.png"
+  },
+  {
+    "key": "peek",
+    "text": "偷看",
+    "scene": "被你发现了",
+    "tags": [
+      "偷看",
+      "看",
+      "瞄",
+      "害羞"
+    ],
+    "file": "peek.png"
+  },
+  {
+    "key": "peek2",
+    "text": "探头",
+    "scene": "有人在吗",
+    "tags": [
+      "探头",
+      "在吗",
+      "看看",
+      "冒头"
+    ],
+    "file": "peek2.png"
+  },
+  {
+    "key": "listen",
+    "text": "偷听",
+    "scene": "谁在说我",
+    "tags": [
+      "偷听",
+      "八卦",
+      "好奇"
+    ],
+    "file": "listen.png"
+  },
+  {
+    "key": "mine",
+    "text": "你是我的",
+    "scene": "不许乱跑",
+    "tags": [
+      "占有",
+      "喜欢",
+      "吃醋",
+      "霸道"
+    ],
+    "file": "mine.png"
+  },
+  {
+    "key": "jealous2",
+    "text": "不许理别人",
+    "scene": "我才是最好的",
+    "tags": [
+      "吃醋",
+      "占有",
+      "生气",
+      "撒娇"
+    ],
+    "file": "jealous2.png"
+  },
+  {
+    "key": "ours",
+    "text": "我们的",
+    "scene": "说好了",
+    "tags": [
+      "约定",
+      "一起",
+      "亲密",
+      "承诺"
+    ],
+    "file": "ours.png"
+  },
+  {
+    "key": "forever",
+    "text": "一直陪着你",
+    "scene": "不许赶我走",
+    "tags": [
+      "陪伴",
+      "喜欢",
+      "承诺",
+      "暖心"
+    ],
+    "file": "forever.png"
+  },
+  {
+    "key": "promise",
+    "text": "说好了",
+    "scene": "拉钩",
+    "tags": [
+      "约定",
+      "承诺",
+      "拉钩",
+      "认真"
+    ],
+    "file": "promise.png"
+  },
+  {
+    "key": "memorize",
+    "text": "我记住了",
+    "scene": "你说的每句",
+    "tags": [
+      "记住",
+      "认真",
+      "感动",
+      "暖心"
+    ],
+    "file": "memorize.png"
+  },
+  {
+    "key": "remember",
+    "text": "记得",
+    "scene": "当然记得",
+    "tags": [
+      "记得",
+      "认真",
+      "暖心"
+    ],
+    "file": "remember.png"
+  },
+  {
+    "key": "comfort",
+    "text": "没事的",
+    "scene": "有我在",
+    "tags": [
+      "安慰",
+      "没事",
+      "暖心",
+      "陪伴"
+    ],
+    "file": "comfort.png"
+  },
+  {
+    "key": "comfort2",
+    "text": "没事的啦",
+    "scene": "别自己扛",
+    "tags": [
+      "安慰",
+      "暖心",
+      "鼓励"
+    ],
+    "file": "comfort2.png"
+  },
+  {
+    "key": "protect",
+    "text": "我护着你",
+    "scene": "谁都不许欺负你",
+    "tags": [
+      "护短",
+      "保护",
+      "撑腰"
+    ],
+    "file": "protect.png"
+  },
+  {
+    "key": "defend",
+    "text": "我帮你骂",
+    "scene": "骂到他道歉",
+    "tags": [
+      "护短",
+      "生气",
+      "骂人",
+      "撑腰"
+    ],
+    "file": "defend.png"
+  },
+  {
+    "key": "forgive",
+    "text": "原谅你",
+    "scene": "就这一次",
+    "tags": [
+      "原谅",
+      "和好",
+      "宽容"
+    ],
+    "file": "forgive.png"
+  },
+  {
+    "key": "sorry",
+    "text": "我错了",
+    "scene": "原谅我嘛",
+    "tags": [
+      "道歉",
+      "错了",
+      "对不起"
+    ],
+    "file": "sorry.png"
+  },
+  {
+    "key": "sorry2",
+    "text": "对不起嘛",
+    "scene": "别生气了",
+    "tags": [
+      "道歉",
+      "哄",
+      "别生气"
+    ],
+    "file": "sorry2.png"
+  },
+  {
+    "key": "sorry3",
+    "text": "别生气了",
+    "scene": "我给你顺毛",
+    "tags": [
+      "道歉",
+      "哄",
+      "安慰"
+    ],
+    "file": "sorry3.png"
+  },
+  {
+    "key": "makeup",
+    "text": "和好吧",
+    "scene": "拉钩",
+    "tags": [
+      "和好",
+      "约定",
+      "道歉"
+    ],
+    "file": "makeup.png"
+  },
+  {
+    "key": "thanks",
+    "text": "谢谢",
+    "scene": "真的谢啦",
+    "tags": [
+      "谢谢",
+      "感谢",
+      "礼貌"
+    ],
+    "file": "thanks.png"
+  },
+  {
+    "key": "welcome",
+    "text": "不客气",
+    "scene": "哼，应该的",
+    "tags": [
+      "不客气",
+      "礼貌",
+      "得意"
+    ],
+    "file": "welcome.png"
+  },
+  {
+    "key": "happy",
+    "text": "开心",
+    "scene": "嘿嘿嘿",
+    "tags": [
+      "开心",
+      "高兴",
+      "快乐"
+    ],
+    "file": "happy.png"
+  },
+  {
+    "key": "yay",
+    "text": "好耶",
+    "scene": "赢啦",
+    "tags": [
+      "好耶",
+      "庆祝",
+      "赢了"
+    ],
+    "file": "yay.png"
+  },
+  {
+    "key": "cheer",
+    "text": "加油",
+    "scene": "你可以的",
+    "tags": [
+      "加油",
+      "鼓励",
+      "打气"
+    ],
+    "file": "cheer.png"
+  },
+  {
+    "key": "cheer2",
+    "text": "打气",
+    "scene": "冲鸭",
+    "tags": [
+      "打气",
+      "鼓励",
+      "加油"
+    ],
+    "file": "cheer2.png"
+  },
+  {
+    "key": "praise",
+    "text": "求表扬",
+    "scene": "我超棒的",
+    "tags": [
+      "表扬",
+      "夸",
+      "棒",
+      "求夸"
+    ],
+    "file": "praise.png"
+  },
+  {
+    "key": "proud",
+    "text": "骄傲",
+    "scene": "快夸我",
+    "tags": [
+      "骄傲",
+      "得意",
+      "求夸"
+    ],
+    "file": "proud.png"
+  },
+  {
+    "key": "smug",
+    "text": "得意",
+    "scene": "那当然啦",
+    "tags": [
+      "得意",
+      "骄傲",
+      "自豪"
+    ],
+    "file": "smug.png"
+  },
+  {
+    "key": "showoff",
+    "text": "显摆",
+    "scene": "看看这个",
+    "tags": [
+      "显摆",
+      "得意",
+      "炫耀"
+    ],
+    "file": "showoff.png"
+  },
+  {
+    "key": "smirk",
+    "text": "坏笑",
+    "scene": "计划通",
+    "tags": [
+      "坏笑",
+      "得意",
+      "调皮"
+    ],
+    "file": "smirk.png"
+  },
+  {
+    "key": "wronged",
+    "text": "委屈巴巴",
+    "scene": "真的不是我",
+    "tags": [
+      "委屈",
+      "难过",
+      "无辜"
+    ],
+    "file": "wronged.png"
+  },
+  {
+    "key": "sad",
+    "text": "难过",
+    "scene": "有点想哭",
+    "tags": [
+      "难过",
+      "伤心",
+      "低落"
+    ],
+    "file": "sad.png"
+  },
+  {
+    "key": "cry",
+    "text": "呜呜",
+    "scene": "快哄我",
+    "tags": [
+      "哭",
+      "委屈",
+      "哄"
+    ],
+    "file": "cry.png"
+  },
+  {
+    "key": "sob",
+    "text": "哭哭",
+    "scene": "眼泪止不住",
+    "tags": [
+      "哭",
+      "难过",
+      "流泪"
+    ],
+    "file": "sob.png"
+  },
+  {
+    "key": "cry2",
+    "text": "抽泣",
+    "scene": "吸鼻子",
+    "tags": [
+      "哭",
+      "委屈",
+      "可怜"
+    ],
+    "file": "cry2.png"
+  },
+  {
+    "key": "lonely",
+    "text": "孤单",
+    "scene": "一个人",
+    "tags": [
+      "孤单",
+      "寂寞",
+      "难过"
+    ],
+    "file": "lonely.png"
+  },
+  {
+    "key": "aaa",
+    "text": "啊啊啊",
+    "scene": "破防了",
+    "tags": [
+      "崩溃",
+      "破防",
+      "啊啊"
+    ],
+    "file": "aaa.png"
+  },
+  {
+    "key": "sigh",
+    "text": "叹气",
+    "scene": "唉——",
+    "tags": [
+      "叹气",
+      "无奈",
+      "累"
+    ],
+    "file": "sigh.png"
+  },
+  {
+    "key": "tired",
+    "text": "累了",
+    "scene": "趴一会儿",
+    "tags": [
+      "累",
+      "疲惫",
+      "休息"
+    ],
+    "file": "tired.png"
+  },
+  {
+    "key": "lazy",
+    "text": "摆烂",
+    "scene": "今天不干了",
+    "tags": [
+      "摆烂",
+      "偷懒",
+      "不想动"
+    ],
+    "file": "lazy.png"
+  },
+  {
+    "key": "bored",
+    "text": "无聊",
+    "scene": "陪我玩",
+    "tags": [
+      "无聊",
+      "找乐子",
+      "陪我"
+    ],
+    "file": "bored.png"
+  },
+  {
+    "key": "daze",
+    "text": "发呆",
+    "scene": "脑子空白",
+    "tags": [
+      "发呆",
+      "空白",
+      "走神"
+    ],
+    "file": "daze.png"
+  },
+  {
+    "key": "blank",
+    "text": "空白",
+    "scene": "……",
+    "tags": [
+      "空白",
+      "无语",
+      "呆住"
+    ],
+    "file": "blank.png"
+  },
+  {
+    "key": "pout",
+    "text": "气鼓鼓",
+    "scene": "不跟你讲话",
+    "tags": [
+      "生气",
+      "鼓",
+      "不理"
+    ],
+    "file": "pout.png"
+  },
+  {
+    "key": "angry",
+    "text": "生气",
+    "scene": "真的生气了",
+    "tags": [
+      "生气",
+      "恼火",
+      "不开心"
+    ],
+    "file": "angry.png"
+  },
+  {
+    "key": "rage",
+    "text": "暴怒",
+    "scene": "别拦我",
+    "tags": [
+      "暴怒",
+      "生气",
+      "火大"
+    ],
+    "file": "rage.png"
+  },
+  {
+    "key": "hum",
+    "text": "哼",
+    "scene": "就哼一下",
+    "tags": [
+      "哼",
+      "傲娇",
+      "不服"
+    ],
+    "file": "hum.png"
+  },
+  {
+    "key": "ignore",
+    "text": "不理你了",
+    "scene": "……三秒钟",
+    "tags": [
+      "生气",
+      "不理",
+      "别扭"
+    ],
+    "file": "ignore.png"
+  },
+  {
+    "key": "silent",
+    "text": "不说话",
+    "scene": "自己体会",
+    "tags": [
+      "沉默",
+      "冷战",
+      "不说话"
+    ],
+    "file": "silent.png"
+  },
+  {
+    "key": "cold",
+    "text": "冷战",
+    "scene": "你哄不哄",
+    "tags": [
+      "冷战",
+      "生气",
+      "别扭"
+    ],
+    "file": "cold.png"
+  },
+  {
+    "key": "jealous",
+    "text": "吃醋",
+    "scene": "酸了",
+    "tags": [
+      "吃醋",
+      "酸",
+      "别扭"
+    ],
+    "file": "jealous.png"
+  },
+  {
+    "key": "glare",
+    "text": "瞪你",
+    "scene": "再说一遍",
+    "tags": [
+      "瞪",
+      "生气",
+      "警告"
+    ],
+    "file": "glare.png"
+  },
+  {
+    "key": "hit",
+    "text": "捶你",
+    "scene": "揍你哦",
+    "tags": [
+      "捶",
+      "生气",
+      "打闹"
+    ],
+    "file": "hit.png"
+  },
+  {
+    "key": "kick",
+    "text": "踢你",
+    "scene": "踹一脚",
+    "tags": [
+      "踢",
+      "生气",
+      "打闹"
+    ],
+    "file": "kick.png"
+  },
+  {
+    "key": "bite",
+    "text": "咬你",
+    "scene": "真咬",
+    "tags": [
+      "咬",
+      "生气",
+      "打闹"
+    ],
+    "file": "bite.png"
+  },
+  {
+    "key": "shock",
+    "text": "震惊",
+    "scene": "真的假的",
+    "tags": [
+      "震惊",
+      "惊讶",
+      "真的"
+    ],
+    "file": "shock.png"
+  },
+  {
+    "key": "stunned",
+    "text": "呆住",
+    "scene": "啊？",
+    "tags": [
+      "呆",
+      "愣",
+      "啊"
+    ],
+    "file": "stunned.png"
+  },
+  {
+    "key": "confuse",
+    "text": "迷惑",
+    "scene": "看不懂",
+    "tags": [
+      "迷惑",
+      "不懂",
+      "奇怪"
+    ],
+    "file": "confuse.png"
+  },
+  {
+    "key": "question",
+    "text": "问号",
+    "scene": "???",
+    "tags": [
+      "问号",
+      "疑问",
+      "不解"
+    ],
+    "file": "question.png"
+  },
+  {
+    "key": "sweat",
+    "text": "流汗",
+    "scene": "无语凝噎",
+    "tags": [
+      "流汗",
+      "无语",
+      "尴尬"
+    ],
+    "file": "sweat.png"
+  },
+  {
+    "key": "speechless",
+    "text": "无语",
+    "scene": "说点什么好",
+    "tags": [
+      "无语",
+      "无奈",
+      "沉默"
+    ],
+    "file": "speechless.png"
+  },
+  {
+    "key": "speechless2",
+    "text": "沉默",
+    "scene": "我缓缓",
+    "tags": [
+      "沉默",
+      "无语",
+      "冷静"
+    ],
+    "file": "speechless2.png"
+  },
+  {
+    "key": "facepalm",
+    "text": "扶额",
+    "scene": "没眼看",
+    "tags": [
+      "扶额",
+      "无奈",
+      "无语"
+    ],
+    "file": "facepalm.png"
+  },
+  {
+    "key": "wake",
+    "text": "起床气",
+    "scene": "别吵我",
+    "tags": [
+      "起床",
+      "生气",
+      "早"
+    ],
+    "file": "wake.png"
+  },
+  {
+    "key": "sleepy",
+    "text": "困困",
+    "scene": "眯一小会儿",
+    "tags": [
+      "困",
+      "睡觉",
+      "累"
+    ],
+    "file": "sleepy.png"
+  },
+  {
+    "key": "sleep",
+    "text": "睡觉",
+    "scene": "晚安啦",
+    "tags": [
+      "睡觉",
+      "晚安",
+      "困"
+    ],
+    "file": "sleep.png"
+  },
+  {
+    "key": "sweetsleep",
+    "text": "睡啦睡啦",
+    "scene": "明天见",
+    "tags": [
+      "睡觉",
+      "晚安",
+      "告别"
+    ],
+    "file": "sweetsleep.png"
+  },
+  {
+    "key": "night",
+    "text": "晚安",
+    "scene": "做个好梦",
+    "tags": [
+      "晚安",
+      "睡觉",
+      "梦"
+    ],
+    "file": "night.png"
+  },
+  {
+    "key": "dream",
+    "text": "做梦",
+    "scene": "梦到你了",
+    "tags": [
+      "做梦",
+      "梦",
+      "想你"
+    ],
+    "file": "dream.png"
+  },
+  {
+    "key": "morning",
+    "text": "早安",
+    "scene": "起床啦",
+    "tags": [
+      "早安",
+      "早上",
+      "起床"
+    ],
+    "file": "morning.png"
+  },
+  {
+    "key": "morning2",
+    "text": "早呀",
+    "scene": "太阳晒屁股了",
+    "tags": [
+      "早安",
+      "叫醒",
+      "早上"
+    ],
+    "file": "morning2.png"
+  },
+  {
+    "key": "clap",
+    "text": "鼓掌",
+    "scene": "啪啪啪",
+    "tags": [
+      "鼓掌",
+      "表扬",
+      "厉害"
+    ],
+    "file": "clap.png"
+  },
+  {
+    "key": "salute",
+    "text": "敬礼",
+    "scene": "收到！",
+    "tags": [
+      "敬礼",
+      "收到",
+      "服从"
+    ],
+    "file": "salute.png"
+  },
+  {
+    "key": "bow",
+    "text": "鞠躬",
+    "scene": "多谢款待",
+    "tags": [
+      "鞠躬",
+      "谢谢",
+      "礼貌"
+    ],
+    "file": "bow.png"
+  },
+  {
+    "key": "handshake",
+    "text": "握手",
+    "scene": "合作愉快",
+    "tags": [
+      "握手",
+      "合作",
+      "礼貌"
+    ],
+    "file": "handshake.png"
+  },
+  {
+    "key": "highfive",
+    "text": "击掌",
+    "scene": "啪！",
+    "tags": [
+      "击掌",
+      "庆祝",
+      "默契"
+    ],
+    "file": "highfive.png"
+  },
+  {
+    "key": "gift",
+    "text": "礼物",
+    "scene": "给你的",
+    "tags": [
+      "礼物",
+      "送",
+      "惊喜"
+    ],
+    "file": "gift.png"
+  },
+  {
+    "key": "flower",
+    "text": "送花",
+    "scene": "拿好别掉了",
+    "tags": [
+      "送花",
+      "礼物",
+      "喜欢"
+    ],
+    "file": "flower.png"
+  },
+  {
+    "key": "lucky",
+    "text": "好运",
+    "scene": "分你一点",
+    "tags": [
+      "好运",
+      "祝福",
+      "幸运"
+    ],
+    "file": "lucky.png"
+  },
+  {
+    "key": "wish",
+    "text": "许愿",
+    "scene": "希望成真",
+    "tags": [
+      "许愿",
+      "愿望",
+      "期待"
+    ],
+    "file": "wish.png"
+  },
+  {
+    "key": "magic",
+    "text": "魔法",
+    "scene": "变！",
+    "tags": [
+      "魔法",
+      "变",
+      "调皮"
+    ],
+    "file": "magic.png"
+  },
+  {
+    "key": "ok",
+    "text": "好哒",
+    "scene": "没问题",
+    "tags": [
+      "好",
+      "可以",
+      "答应"
+    ],
+    "file": "ok.png"
+  },
+  {
+    "key": "yes",
+    "text": "可以",
+    "scene": "行吧",
+    "tags": [
+      "可以",
+      "行",
+      "同意"
+    ],
+    "file": "yes.png"
+  },
+  {
+    "key": "no",
+    "text": "不行",
+    "scene": "想都别想",
+    "tags": [
+      "不行",
+      "拒绝",
+      "不同意"
+    ],
+    "file": "no.png"
+  },
+  {
+    "key": "wait2",
+    "text": "等一下",
+    "scene": "马上好",
+    "tags": [
+      "等",
+      "稍等",
+      "马上"
+    ],
+    "file": "wait2.png"
+  },
+  {
+    "key": "coming",
+    "text": "来了来了",
+    "scene": "别催",
+    "tags": [
+      "来了",
+      "马上",
+      "别催"
+    ],
+    "file": "coming.png"
+  },
+  {
+    "key": "leaving",
+    "text": "我走了",
+    "scene": "别想我",
+    "tags": [
+      "走了",
+      "告别",
+      "嘴硬"
+    ],
+    "file": "leaving.png"
+  },
+  {
+    "key": "back",
+    "text": "我回来了",
+    "scene": "想我没",
+    "tags": [
+      "回来",
+      "回来了",
+      "想你"
+    ],
+    "file": "back.png"
+  },
+  {
+    "key": "online",
+    "text": "上线",
+    "scene": "我来了",
+    "tags": [
+      "上线",
+      "来了",
+      "出现"
+    ],
+    "file": "online.png"
+  },
+  {
+    "key": "offline",
+    "text": "下线",
+    "scene": "先撤了",
+    "tags": [
+      "下线",
+      "走了",
+      "告别"
+    ],
+    "file": "offline.png"
+  },
+  {
+    "key": "callme",
+    "text": "叫我干嘛",
+    "scene": "有事说事",
+    "tags": [
+      "叫我",
+      "找人",
+      "不耐烦"
+    ],
+    "file": "callme.png"
+  },
+  {
+    "key": "busy",
+    "text": "忙着呢",
+    "scene": "稍等",
+    "tags": [
+      "忙",
+      "稍等",
+      "没空"
+    ],
+    "file": "busy.png"
+  },
+  {
+    "key": "later",
+    "text": "回头说",
+    "scene": "等会儿",
+    "tags": [
+      "回头",
+      "等会",
+      "忙"
+    ],
+    "file": "later.png"
+  },
+  {
+    "key": "hey",
+    "text": "嘿",
+    "scene": "看这里",
+    "tags": [
+      "嘿",
+      "招呼",
+      "注意"
+    ],
+    "file": "hey.png"
+  },
+  {
+    "key": "hello",
+    "text": "你好呀",
+    "scene": "第一次见",
+    "tags": [
+      "你好",
+      "打招呼",
+      "初见"
+    ],
+    "file": "hello.png"
+  },
+  {
+    "key": "bye",
+    "text": "拜拜",
+    "scene": "记得回来",
+    "tags": [
+      "再见",
+      "拜拜",
+      "走了"
+    ],
+    "file": "bye.png"
+  },
+  {
+    "key": "run",
+    "text": "跑路",
+    "scene": "先溜了",
+    "tags": [
+      "跑路",
+      "溜",
+      "逃跑"
+    ],
+    "file": "run.png"
+  },
+  {
+    "key": "hide",
+    "text": "躲起来",
+    "scene": "找不到我",
+    "tags": [
+      "躲",
+      "藏",
+      "玩"
+    ],
+    "file": "hide.png"
+  },
+  {
+    "key": "escape",
+    "text": "溜了",
+    "scene": "溜了溜了",
+    "tags": [
+      "溜",
+      "跑",
+      "逃"
+    ],
+    "file": "escape.png"
+  },
+  {
+    "key": "catch",
+    "text": "抓到你了",
+    "scene": "别跑",
+    "tags": [
+      "抓",
+      "逮住",
+      "玩"
+    ],
+    "file": "catch.png"
+  },
+  {
+    "key": "chase",
+    "text": "追你",
+    "scene": "等等我",
+    "tags": [
+      "追",
+      "跑",
+      "玩"
+    ],
+    "file": "chase.png"
+  },
+  {
+    "key": "jump",
+    "text": "跳一下",
+    "scene": "蹦蹦",
+    "tags": [
+      "跳",
+      "蹦",
+      "开心"
+    ],
+    "file": "jump.png"
+  },
+  {
+    "key": "dance",
+    "text": "跳舞",
+    "scene": "扭起来",
+    "tags": [
+      "跳舞",
+      "开心",
+      "庆祝"
+    ],
+    "file": "dance.png"
+  },
+  {
+    "key": "sing",
+    "text": "唱歌",
+    "scene": "听我唱",
+    "tags": [
+      "唱歌",
+      "表演",
+      "开心"
+    ],
+    "file": "sing.png"
+  },
+  {
+    "key": "time",
+    "text": "时间",
+    "scene": "到点了",
+    "tags": [
+      "时间",
+      "到点",
+      "提醒"
+    ],
+    "file": "time.png"
+  },
+  {
+    "key": "clock",
+    "text": "迟到",
+    "scene": "又晚了",
+    "tags": [
+      "迟到",
+      "晚",
+      "抱歉"
+    ],
+    "file": "clock.png"
+  },
+  {
+    "key": "late",
+    "text": "又迟到了",
+    "scene": "对不起",
+    "tags": [
+      "迟到",
+      "道歉",
+      "晚"
+    ],
+    "file": "late.png"
+  },
+  {
+    "key": "hurry",
+    "text": "快点",
+    "scene": "来不及了",
+    "tags": [
+      "快点",
+      "着急",
+      "催"
+    ],
+    "file": "hurry.png"
+  },
+  {
+    "key": "slow",
+    "text": "慢慢来",
+    "scene": "不着急",
+    "tags": [
+      "慢慢",
+      "不急",
+      "安慰"
+    ],
+    "file": "slow.png"
+  },
+  {
+    "key": "patience",
+    "text": "耐心点",
+    "scene": "等等嘛",
+    "tags": [
+      "耐心",
+      "等",
+      "哄"
+    ],
+    "file": "patience.png"
+  },
+  {
+    "key": "calm",
+    "text": "冷静",
+    "scene": "深呼吸",
+    "tags": [
+      "冷静",
+      "安慰",
+      "别急"
+    ],
+    "file": "calm.png"
+  },
+  {
+    "key": "relax",
+    "text": "放松",
+    "scene": "别绷着",
+    "tags": [
+      "放松",
+      "安慰",
+      "休息"
+    ],
+    "file": "relax.png"
+  },
+  {
+    "key": "breathe",
+    "text": "深呼吸",
+    "scene": "吸——呼——",
+    "tags": [
+      "深呼吸",
+      "放松",
+      "冷静"
+    ],
+    "file": "breathe.png"
+  },
+  {
+    "key": "rice",
+    "text": "干饭中",
+    "scene": "勿扰谢谢",
+    "tags": [
+      "干饭",
+      "吃",
+      "白米饭"
+    ],
+    "file": "rice.png"
+  },
+  {
+    "key": "hungry",
+    "text": "饿饿",
+    "scene": "饭呢饭呢",
+    "tags": [
+      "饿",
+      "吃饭",
+      "饭"
+    ],
+    "file": "hungry.png"
+  },
+  {
+    "key": "feed",
+    "text": "求投喂",
+    "scene": "就一口",
+    "tags": [
+      "投喂",
+      "吃",
+      "饿"
+    ],
+    "file": "feed.png"
+  },
+  {
+    "key": "full",
+    "text": "吃饱了",
+    "scene": "动不了了",
+    "tags": [
+      "吃饱",
+      "撑",
+      "满足"
+    ],
+    "file": "full.png"
+  },
+  {
+    "key": "diet",
+    "text": "减肥",
+    "scene": "明天再说",
+    "tags": [
+      "减肥",
+      "胖",
+      "明天"
+    ],
+    "file": "diet.png"
+  },
+  {
+    "key": "fat2",
+    "text": "不许说胖",
+    "scene": "再说就哭",
+    "tags": [
+      "胖",
+      "不许说",
+      "生气"
+    ],
+    "file": "fat2.png"
+  },
+  {
+    "key": "weigh",
+    "text": "称体重",
+    "scene": "不看数字",
+    "tags": [
+      "体重",
+      "胖",
+      "难过"
+    ],
+    "file": "weigh.png"
+  },
+  {
+    "key": "coffee",
+    "text": "咖啡",
+    "scene": "续命",
+    "tags": [
+      "咖啡",
+      "提神",
+      "上班"
+    ],
+    "file": "coffee.png"
+  },
+  {
+    "key": "tea",
+    "text": "喝茶",
+    "scene": "养生",
+    "tags": [
+      "喝茶",
+      "养生",
+      "悠闲"
+    ],
+    "file": "tea.png"
+  },
+  {
+    "key": "water",
+    "text": "喝水",
+    "scene": "记得喝水",
+    "tags": [
+      "喝水",
+      "关心",
+      "提醒"
+    ],
+    "file": "water.png"
+  },
+  {
+    "key": "cake",
+    "text": "蛋糕",
+    "scene": "甜的",
+    "tags": [
+      "蛋糕",
+      "甜",
+      "生日"
+    ],
+    "file": "cake.png"
+  },
+  {
+    "key": "candy",
+    "text": "糖",
+    "scene": "给你一颗",
+    "tags": [
+      "糖",
+      "甜",
+      "给"
+    ],
+    "file": "candy.png"
+  },
+  {
+    "key": "icecream",
+    "text": "冰淇淋",
+    "scene": "夏天必备",
+    "tags": [
+      "冰淇淋",
+      "夏天",
+      "甜"
+    ],
+    "file": "icecream.png"
+  },
+  {
+    "key": "ramen",
+    "text": "拉面",
+    "scene": "热乎的",
+    "tags": [
+      "拉面",
+      "吃",
+      "热"
+    ],
+    "file": "ramen.png"
+  },
+  {
+    "key": "hotpot",
+    "text": "火锅",
+    "scene": "走起",
+    "tags": [
+      "火锅",
+      "吃",
+      "约"
+    ],
+    "file": "hotpot.png"
+  },
+  {
+    "key": "bbq",
+    "text": "烧烤",
+    "scene": "配冰可乐",
+    "tags": [
+      "烧烤",
+      "吃",
+      "夜宵"
+    ],
+    "file": "bbq.png"
+  },
+  {
+    "key": "milk",
+    "text": "奶茶",
+    "scene": "三分糖",
+    "tags": [
+      "奶茶",
+      "喝",
+      "甜"
+    ],
+    "file": "milk.png"
+  },
+  {
+    "key": "tshirt",
+    "text": "新衣服",
+    "scene": "好看吗",
+    "tags": [
+      "衣服",
+      "新",
+      "好看"
+    ],
+    "file": "tshirt.png"
+  },
+  {
+    "key": "mirror",
+    "text": "照镜子",
+    "scene": "我最好看",
+    "tags": [
+      "镜子",
+      "好看",
+      "自恋"
+    ],
+    "file": "mirror.png"
+  },
+  {
+    "key": "selfie",
+    "text": "自拍",
+    "scene": "拍一张",
+    "tags": [
+      "自拍",
+      "拍照",
+      "害羞"
+    ],
+    "file": "selfie.png"
+  },
+  {
+    "key": "photo",
+    "text": "拍照",
+    "scene": "茄子",
+    "tags": [
+      "拍照",
+      "合影",
+      "记录"
+    ],
+    "file": "photo.png"
+  },
+  {
+    "key": "game",
+    "text": "打游戏",
+    "scene": "开一局",
+    "tags": [
+      "游戏",
+      "开黑",
+      "玩"
+    ],
+    "file": "game.png"
+  },
+  {
+    "key": "gameover",
+    "text": "GAME OVER",
+    "scene": "再来一局",
+    "tags": [
+      "游戏",
+      "输了",
+      "结束"
+    ],
+    "file": "gameover.png"
+  },
+  {
+    "key": "win",
+    "text": "赢了",
+    "scene": "我超强",
+    "tags": [
+      "赢",
+      "胜利",
+      "厉害"
+    ],
+    "file": "win.png"
+  },
+  {
+    "key": "lose",
+    "text": "输了",
+    "scene": "不服",
+    "tags": [
+      "输",
+      "不服",
+      "再来"
+    ],
+    "file": "lose.png"
+  },
+  {
+    "key": "lag",
+    "text": "卡了",
+    "scene": "网不行",
+    "tags": [
+      "卡",
+      "延迟",
+      "网络"
+    ],
+    "file": "lag.png"
+  },
+  {
+    "key": "ping",
+    "text": "掉线",
+    "scene": "人没了",
+    "tags": [
+      "掉线",
+      "断网",
+      "消失"
+    ],
+    "file": "ping.png"
+  },
+  {
+    "key": "code",
+    "text": "写代码",
+    "scene": "别打断",
+    "tags": [
+      "代码",
+      "编程",
+      "忙"
+    ],
+    "file": "code.png"
+  },
+  {
+    "key": "bug",
+    "text": "有bug",
+    "scene": "不关我事",
+    "tags": [
+      "bug",
+      "报错",
+      "崩溃"
+    ],
+    "file": "bug.png"
+  },
+  {
+    "key": "fix",
+    "text": "修好了",
+    "scene": "夸我",
+    "tags": [
+      "修",
+      "修好",
+      "搞定"
+    ],
+    "file": "fix.png"
+  },
+  {
+    "key": "deploy",
+    "text": "上线了",
+    "scene": "别出事",
+    "tags": [
+      "上线",
+      "发布",
+      "紧张"
+    ],
+    "file": "deploy.png"
+  },
+  {
+    "key": "sleepcode",
+    "text": "通宵了",
+    "scene": "头发还在吗",
+    "tags": [
+      "通宵",
+      "熬夜",
+      "累"
+    ],
+    "file": "sleepcode.png"
+  },
+  {
+    "key": "study",
+    "text": "学习",
+    "scene": "看不进去",
+    "tags": [
+      "学习",
+      "看书",
+      "难"
+    ],
+    "file": "study.png"
+  },
+  {
+    "key": "exam",
+    "text": "考试",
+    "scene": "救命",
+    "tags": [
+      "考试",
+      "紧张",
+      "救命"
+    ],
+    "file": "exam.png"
+  },
+  {
+    "key": "homework",
+    "text": "作业",
+    "scene": "写不完",
+    "tags": [
+      "作业",
+      "写",
+      "累"
+    ],
+    "file": "homework.png"
+  },
+  {
+    "key": "work",
+    "text": "上班",
+    "scene": "不想动",
+    "tags": [
+      "上班",
+      "工作",
+      "累"
+    ],
+    "file": "work.png"
+  },
+  {
+    "key": "offwork",
+    "text": "下班",
+    "scene": "冲！",
+    "tags": [
+      "下班",
+      "回家",
+      "开心"
+    ],
+    "file": "offwork.png"
+  },
+  {
+    "key": "meeting",
+    "text": "开会",
+    "scene": "走神中",
+    "tags": [
+      "开会",
+      "走神",
+      "无聊"
+    ],
+    "file": "meeting.png"
+  },
+  {
+    "key": "boss",
+    "text": "老板",
+    "scene": "别过来",
+    "tags": [
+      "老板",
+      "怕",
+      "上班"
+    ],
+    "file": "boss.png"
+  },
+  {
+    "key": "salary",
+    "text": "发工资",
+    "scene": "发财了",
+    "tags": [
+      "工资",
+      "钱",
+      "开心"
+    ],
+    "file": "salary.png"
+  },
+  {
+    "key": "broke",
+    "text": "没钱了",
+    "scene": "吃土",
+    "tags": [
+      "没钱",
+      "穷",
+      "难过"
+    ],
+    "file": "broke.png"
+  },
+  {
+    "key": "payday",
+    "text": "发财",
+    "scene": "请客",
+    "tags": [
+      "发财",
+      "有钱",
+      "请客"
+    ],
+    "file": "payday.png"
+  },
+  {
+    "key": "shop",
+    "text": "剁手",
+    "scene": "就看看",
+    "tags": [
+      "买东西",
+      "剁手",
+      "购物"
+    ],
+    "file": "shop.png"
+  },
+  {
+    "key": "deliver",
+    "text": "外卖到了",
+    "scene": "冲",
+    "tags": [
+      "外卖",
+      "吃",
+      "到了"
+    ],
+    "file": "deliver.png"
+  },
+  {
+    "key": "package",
+    "text": "快递到了",
+    "scene": "拆箱",
+    "tags": [
+      "快递",
+      "拆箱",
+      "开心"
+    ],
+    "file": "package.png"
+  },
+  {
+    "key": "rain",
+    "text": "下雨",
+    "scene": "湿乎乎",
+    "tags": [
+      "下雨",
+      "天气",
+      "湿"
+    ],
+    "file": "rain.png"
+  },
+  {
+    "key": "sunny",
+    "text": "晴天",
+    "scene": "出去玩",
+    "tags": [
+      "晴天",
+      "太阳",
+      "出去玩"
+    ],
+    "file": "sunny.png"
+  },
+  {
+    "key": "snow",
+    "text": "下雪",
+    "scene": "好漂亮",
+    "tags": [
+      "下雪",
+      "冬天",
+      "漂亮"
+    ],
+    "file": "snow.png"
+  },
+  {
+    "key": "wind",
+    "text": "刮风",
+    "scene": "头发乱了",
+    "tags": [
+      "风",
+      "天气",
+      "乱"
+    ],
+    "file": "wind.png"
+  },
+  {
+    "key": "cold2",
+    "text": "好冷",
+    "scene": "缩成一团",
+    "tags": [
+      "冷",
+      "冬天",
+      "缩"
+    ],
+    "file": "cold2.png"
+  },
+  {
+    "key": "hot",
+    "text": "好热",
+    "scene": "化了",
+    "tags": [
+      "热",
+      "夏天",
+      "化"
+    ],
+    "file": "hot.png"
+  },
+  {
+    "key": "spring",
+    "text": "春天",
+    "scene": "开花啦",
+    "tags": [
+      "春天",
+      "花",
+      "季节"
+    ],
+    "file": "spring.png"
+  },
+  {
+    "key": "summer",
+    "text": "夏天",
+    "scene": "空调救命",
+    "tags": [
+      "夏天",
+      "热",
+      "空调"
+    ],
+    "file": "summer.png"
+  },
+  {
+    "key": "autumn",
+    "text": "秋天",
+    "scene": "落叶",
+    "tags": [
+      "秋天",
+      "落叶",
+      "季节"
+    ],
+    "file": "autumn.png"
+  },
+  {
+    "key": "winter",
+    "text": "冬天",
+    "scene": "想冬眠",
+    "tags": [
+      "冬天",
+      "冷",
+      "冬眠"
+    ],
+    "file": "winter.png"
+  },
+  {
+    "key": "bubble",
+    "text": "冒泡",
+    "scene": "咕噜咕噜",
+    "tags": [
+      "冒泡",
+      "在吗",
+      "潜水"
+    ],
+    "file": "bubble.png"
+  },
+  {
+    "key": "dive",
+    "text": "潜水",
+    "scene": "别找我",
+    "tags": [
+      "潜水",
+      "忙",
+      "消失"
+    ],
+    "file": "dive.png"
+  },
+  {
+    "key": "splash",
+    "text": "拍水",
+    "scene": "溅你一脸",
+    "tags": [
+      "拍水",
+      "尾巴",
+      "调皮"
+    ],
+    "file": "splash.png"
+  },
+  {
+    "key": "wag",
+    "text": "摇尾巴",
+    "scene": "摇摇摇摇",
+    "tags": [
+      "摇尾巴",
+      "开心",
+      "狗"
+    ],
+    "file": "wag.png"
+  },
+  {
+    "key": "whale",
+    "text": "鲸鱼",
+    "scene": "本鲸在此",
+    "tags": [
+      "鲸鱼",
+      "自称",
+      "得意"
+    ],
+    "file": "whale.png"
+  },
+  {
+    "key": "deepsea",
+    "text": "深海",
+    "scene": "回家了",
+    "tags": [
+      "深海",
+      "回家",
+      "睡觉"
+    ],
+    "file": "deepsea.png"
+  },
+  {
+    "key": "lighthouse",
+    "text": "灯塔",
+    "scene": "给你照路",
+    "tags": [
+      "灯塔",
+      "照路",
+      "守护"
+    ],
+    "file": "lighthouse.png"
+  },
+  {
+    "key": "sea",
+    "text": "大海",
+    "scene": "有点咸",
+    "tags": [
+      "大海",
+      "海",
+      "味道"
+    ],
+    "file": "sea.png"
+  },
+  {
+    "key": "fish",
+    "text": "摸鱼",
+    "scene": "上班中别管我",
+    "tags": [
+      "摸鱼",
+      "偷懒",
+      "上班"
+    ],
+    "file": "fish.png"
+  },
+  {
+    "key": "fish2",
+    "text": "鱼",
+    "scene": "抓一条",
+    "tags": [
+      "鱼",
+      "抓",
+      "玩"
+    ],
+    "file": "fish2.png"
+  },
+  {
+    "key": "melon",
+    "text": "吃瓜",
+    "scene": "然后呢然后呢",
+    "tags": [
+      "吃瓜",
+      "八卦",
+      "看戏"
+    ],
+    "file": "melon.png"
+  },
+  {
+    "key": "star",
+    "text": "星星",
+    "scene": "摘一颗",
+    "tags": [
+      "星星",
+      "送",
+      "浪漫"
+    ],
+    "file": "star.png"
+  },
+  {
+    "key": "moon",
+    "text": "月亮",
+    "scene": "晚安",
+    "tags": [
+      "月亮",
+      "晚安",
+      "夜"
+    ],
+    "file": "moon.png"
+  },
+  {
+    "key": "sun",
+    "text": "太阳",
+    "scene": "晒晒",
+    "tags": [
+      "太阳",
+      "晴",
+      "暖"
+    ],
+    "file": "sun.png"
+  },
+  {
+    "key": "flower2",
+    "text": "花",
+    "scene": "开得正好",
+    "tags": [
+      "花",
+      "好看",
+      "春天"
+    ],
+    "file": "flower2.png"
+  },
+  {
+    "key": "tree",
+    "text": "树",
+    "scene": "靠着睡",
+    "tags": [
+      "树",
+      "靠着",
+      "睡"
+    ],
+    "file": "tree.png"
+  },
+  {
+    "key": "cloud",
+    "text": "云",
+    "scene": "软软的",
+    "tags": [
+      "云",
+      "软",
+      "天"
+    ],
+    "file": "cloud.png"
+  },
+  {
+    "key": "rainbow",
+    "text": "彩虹",
+    "scene": "好运来",
+    "tags": [
+      "彩虹",
+      "好运",
+      "美"
+    ],
+    "file": "rainbow.png"
+  },
+  {
+    "key": "cat",
+    "text": "猫猫",
+    "scene": "喵",
+    "tags": [
+      "猫",
+      "喵",
+      "可爱"
+    ],
+    "file": "cat.png"
+  },
+  {
+    "key": "dog",
+    "text": "狗狗",
+    "scene": "汪",
+    "tags": [
+      "狗",
+      "汪",
+      "可爱"
+    ],
+    "file": "dog.png"
+  },
+  {
+    "key": "bday",
+    "text": "生日快乐",
+    "scene": "蛋糕呢",
+    "tags": [
+      "生日",
+      "蛋糕",
+      "祝福"
+    ],
+    "file": "bday.png"
+  },
+  {
+    "key": "congrats",
+    "text": "恭喜",
+    "scene": "太强了",
+    "tags": [
+      "恭喜",
+      "祝贺",
+      "厉害"
+    ],
+    "file": "congrats.png"
+  },
+  {
+    "key": "newyear",
+    "text": "新年快乐",
+    "scene": "红包拿来",
+    "tags": [
+      "新年",
+      "红包",
+      "祝福"
+    ],
+    "file": "newyear.png"
+  },
+  {
+    "key": "holiday",
+    "text": "放假",
+    "scene": "自由了",
+    "tags": [
+      "放假",
+      "自由",
+      "开心"
+    ],
+    "file": "holiday.png"
+  },
+  {
+    "key": "weekend",
+    "text": "周末",
+    "scene": "躺平",
+    "tags": [
+      "周末",
+      "休息",
+      "躺平"
+    ],
+    "file": "weekend.png"
+  },
+  {
+    "key": "tomorrow",
+    "text": "明天见",
+    "scene": "说好了",
+    "tags": [
+      "明天",
+      "再见",
+      "约定"
+    ],
+    "file": "tomorrow.png"
+  },
+  {
+    "key": "forget",
+    "text": "忘了",
+    "scene": "真忘了",
+    "tags": [
+      "忘",
+      "记忆",
+      "抱歉"
+    ],
+    "file": "forget.png"
+  },
+  {
+    "key": "magic2",
+    "text": "变身",
+    "scene": "看我",
+    "tags": [
+      "变身",
+      "魔法",
+      "看"
+    ],
+    "file": "magic2.png"
+  },
+  {
+    "key": "wronged2",
+    "text": "好委屈",
+    "scene": "眼泪在打转",
+    "tags": [
+      "委屈",
+      "难过",
+      "想哭"
+    ],
+    "file": "wronged2.png"
+  },
+  {
+    "key": "wronged3",
+    "text": "没人疼",
+    "scene": "自己抱自己",
+    "tags": [
+      "委屈",
+      "孤单",
+      "难过"
+    ],
+    "file": "wronged3.png"
+  },
+  {
+    "key": "wronged4",
+    "text": "被欺负了",
+    "scene": "你帮我骂他",
+    "tags": [
+      "委屈",
+      "难过",
+      "求助"
+    ],
+    "file": "wronged4.png"
+  },
+  {
+    "key": "teary",
+    "text": "眼泪打转",
+    "scene": "忍住不哭",
+    "tags": [
+      "委屈",
+      "想哭",
+      "忍住"
+    ],
+    "file": "teary.png"
+  },
+  {
+    "key": "heavy",
+    "text": "心里堵堵的",
+    "scene": "说不出话",
+    "tags": [
+      "难过",
+      "心事",
+      "低落"
+    ],
+    "file": "heavy.png"
+  },
+  {
+    "key": "unloved",
+    "text": "想被安慰",
+    "scene": "抱一下就好",
+    "tags": [
+      "难过",
+      "求安慰",
+      "孤单"
+    ],
+    "file": "unloved.png"
+  },
+  {
+    "key": "happy2",
+    "text": "太好了",
+    "scene": "转圈圈",
+    "tags": [
+      "开心",
+      "好消息",
+      "兴奋"
+    ],
+    "file": "happy2.png"
+  },
+  {
+    "key": "happy3",
+    "text": "美滋滋",
+    "scene": "尾巴翘起来",
+    "tags": [
+      "开心",
+      "得意",
+      "满足"
+    ],
+    "file": "happy3.png"
+  },
+  {
+    "key": "happy4",
+    "text": "笑出声",
+    "scene": "憋不住",
+    "tags": [
+      "开心",
+      "大笑",
+      "乐"
+    ],
+    "file": "happy4.png"
+  },
+  {
+    "key": "happy5",
+    "text": "开心到冒泡",
+    "scene": "咕噜咕噜",
+    "tags": [
+      "开心",
+      "兴奋",
+      "冒泡"
+    ],
+    "file": "happy5.png"
+  },
+  {
+    "key": "happy6",
+    "text": "爽到",
+    "scene": "今天真顺",
+    "tags": [
+      "开心",
+      "顺利",
+      "爽"
+    ],
+    "file": "happy6.png"
+  },
+  {
+    "key": "happy7",
+    "text": "心里开花",
+    "scene": "藏不住",
+    "tags": [
+      "开心",
+      "甜",
+      "幸福"
+    ],
+    "file": "happy7.png"
+  },
+  {
+    "key": "angry2",
+    "text": "气死我了",
+    "scene": "谁惹的",
+    "tags": [
+      "生气",
+      "火大",
+      "不满"
+    ],
+    "file": "angry2.png"
+  },
+  {
+    "key": "angry3",
+    "text": "火大",
+    "scene": "别靠近",
+    "tags": [
+      "生气",
+      "火大",
+      "警告"
+    ],
+    "file": "angry3.png"
+  },
+  {
+    "key": "angry4",
+    "text": "想打人",
+    "scene": "拳头硬了",
+    "tags": [
+      "生气",
+      "恼火",
+      "打闹"
+    ],
+    "file": "angry4.png"
+  },
+  {
+    "key": "angry5",
+    "text": "别惹我",
+    "scene": "今天很凶",
+    "tags": [
+      "生气",
+      "警告",
+      "凶"
+    ],
+    "file": "angry5.png"
+  },
+  {
+    "key": "angry6",
+    "text": "炸毛了",
+    "scene": "谁都别碰",
+    "tags": [
+      "生气",
+      "炸毛",
+      "暴躁"
+    ],
+    "file": "angry6.png"
+  },
+  {
+    "key": "angry7",
+    "text": "摔尾巴",
+    "scene": "不开心",
+    "tags": [
+      "生气",
+      "闹脾气",
+      "不满"
+    ],
+    "file": "angry7.png"
+  },
+  {
+    "key": "sleepy2",
+    "text": "打哈欠",
+    "scene": "困到流泪",
+    "tags": [
+      "困",
+      "哈欠",
+      "睡"
+    ],
+    "file": "sleepy2.png"
+  },
+  {
+    "key": "sleepy3",
+    "text": "眼皮沉",
+    "scene": "撑不住了",
+    "tags": [
+      "困",
+      "撑不住",
+      "睡"
+    ],
+    "file": "sleepy3.png"
+  },
+  {
+    "key": "sleepy4",
+    "text": "想睡觉",
+    "scene": "别叫我",
+    "tags": [
+      "困",
+      "睡觉",
+      "别吵"
+    ],
+    "file": "sleepy4.png"
+  },
+  {
+    "key": "sleepy5",
+    "text": "睡眠不足",
+    "scene": "黑眼圈",
+    "tags": [
+      "困",
+      "熬夜",
+      "累"
+    ],
+    "file": "sleepy5.png"
+  },
+  {
+    "key": "sleepy6",
+    "text": "赖床",
+    "scene": "再五分钟",
+    "tags": [
+      "困",
+      "赖床",
+      "起床"
+    ],
+    "file": "sleepy6.png"
+  },
+  {
+    "key": "hug4",
+    "text": "要抱抱",
+    "scene": "伸手",
+    "tags": [
+      "抱抱",
+      "撒娇",
+      "要"
+    ],
+    "file": "hug4.png"
+  },
+  {
+    "key": "hug5",
+    "text": "搂住",
+    "scene": "不放开",
+    "tags": [
+      "抱",
+      "亲密",
+      "黏人"
+    ],
+    "file": "hug5.png"
+  },
+  {
+    "key": "hug6",
+    "text": "靠一下",
+    "scene": "就一会儿",
+    "tags": [
+      "依靠",
+      "亲密",
+      "撒娇"
+    ],
+    "file": "hug6.png"
+  },
+  {
+    "key": "hug7",
+    "text": "抱大腿",
+    "scene": "不让你走",
+    "tags": [
+      "抱",
+      "黏人",
+      "撒娇"
+    ],
+    "file": "hug7.png"
+  },
+  {
+    "key": "hug8",
+    "text": "贴脸脸",
+    "scene": "软软的",
+    "tags": [
+      "贴",
+      "亲密",
+      "害羞"
+    ],
+    "file": "hug8.png"
+  },
+  {
+    "key": "hug9",
+    "text": "抱着睡",
+    "scene": "晚安",
+    "tags": [
+      "抱",
+      "睡觉",
+      "亲密"
+    ],
+    "file": "hug9.png"
+  },
+  {
+    "key": "love2",
+    "text": "喜欢你",
+    "scene": "说出来了",
+    "tags": [
+      "喜欢",
+      "表白",
+      "害羞"
+    ],
+    "file": "love2.png"
+  },
+  {
+    "key": "love3",
+    "text": "最喜欢了",
+    "scene": "只对你",
+    "tags": [
+      "喜欢",
+      "独占",
+      "表白"
+    ],
+    "file": "love3.png"
+  },
+  {
+    "key": "love4",
+    "text": "偷偷喜欢",
+    "scene": "不告诉你",
+    "tags": [
+      "喜欢",
+      "暗恋",
+      "害羞"
+    ],
+    "file": "love4.png"
+  },
+  {
+    "key": "love5",
+    "text": "脸红心跳",
+    "scene": "别看我",
+    "tags": [
+      "心动",
+      "害羞",
+      "喜欢"
+    ],
+    "file": "love5.png"
+  },
+  {
+    "key": "love6",
+    "text": "想你了",
+    "scene": "什么时候来",
+    "tags": [
+      "想你",
+      "等待",
+      "喜欢"
+    ],
+    "file": "love6.png"
+  },
+  {
+    "key": "eat2",
+    "text": "饿了",
+    "scene": "饭呢",
+    "tags": [
+      "饿",
+      "吃饭",
+      "催"
+    ],
+    "file": "eat2.png"
+  },
+  {
+    "key": "eat3",
+    "text": "来碗饭",
+    "scene": "白米饭",
+    "tags": [
+      "吃饭",
+      "米饭",
+      "要"
+    ],
+    "file": "eat3.png"
+  },
+  {
+    "key": "eat4",
+    "text": "想吃肉",
+    "scene": "大口吃",
+    "tags": [
+      "吃",
+      "肉",
+      "馋"
+    ],
+    "file": "eat4.png"
+  },
+  {
+    "key": "eat5",
+    "text": "加餐",
+    "scene": "再来一份",
+    "tags": [
+      "吃",
+      "加餐",
+      "馋"
+    ],
+    "file": "eat5.png"
+  },
+  {
+    "key": "eat6",
+    "text": "吃货",
+    "scene": "嘴巴不停",
+    "tags": [
+      "吃",
+      "吃货",
+      "馋"
+    ],
+    "file": "eat6.png"
+  },
+  {
+    "key": "eat7",
+    "text": "好吃的",
+    "scene": "眼睛发光",
+    "tags": [
+      "吃",
+      "好吃",
+      "开心"
+    ],
+    "file": "eat7.png"
+  },
+  {
+    "key": "shock2",
+    "text": "什么？！",
+    "scene": "没听清",
+    "tags": [
+      "震惊",
+      "惊讶",
+      "疑问"
+    ],
+    "file": "shock2.png"
+  },
+  {
+    "key": "shock3",
+    "text": "不会吧",
+    "scene": "真的假的",
+    "tags": [
+      "震惊",
+      "不信",
+      "惊讶"
+    ],
+    "file": "shock3.png"
+  },
+  {
+    "key": "shock4",
+    "text": "吓到",
+    "scene": "缩起来",
+    "tags": [
+      "吓",
+      "震惊",
+      "害怕"
+    ],
+    "file": "shock4.png"
+  },
+  {
+    "key": "shock5",
+    "text": "瞪大眼",
+    "scene": "看傻了",
+    "tags": [
+      "震惊",
+      "看傻",
+      "呆"
+    ],
+    "file": "shock5.png"
+  },
+  {
+    "key": "speechless3",
+    "text": "无话可说",
+    "scene": "你赢了",
+    "tags": [
+      "无语",
+      "服气",
+      "无奈"
+    ],
+    "file": "speechless3.png"
+  },
+  {
+    "key": "speechless4",
+    "text": "垮掉",
+    "scene": "精神出走",
+    "tags": [
+      "无语",
+      "垮",
+      "疲惫"
+    ],
+    "file": "speechless4.png"
+  },
+  {
+    "key": "speechless5",
+    "text": "服气了",
+    "scene": "真的服",
+    "tags": [
+      "无语",
+      "服气",
+      "无奈"
+    ],
+    "file": "speechless5.png"
+  },
+  {
+    "key": "speechless6",
+    "text": "沉默三秒",
+    "scene": "让我缓缓",
+    "tags": [
+      "无语",
+      "沉默",
+      "冷静"
+    ],
+    "file": "speechless6.png"
+  },
+  {
+    "key": "cheer3",
+    "text": "冲鸭",
+    "scene": "往前冲",
+    "tags": [
+      "加油",
+      "冲",
+      "鼓励"
+    ],
+    "file": "cheer3.png"
+  },
+  {
+    "key": "cheer4",
+    "text": "你可以的",
+    "scene": "我相信你",
+    "tags": [
+      "加油",
+      "相信",
+      "鼓励"
+    ],
+    "file": "cheer4.png"
+  },
+  {
+    "key": "cheer5",
+    "text": "别放弃",
+    "scene": "再试一次",
+    "tags": [
+      "加油",
+      "坚持",
+      "鼓励"
+    ],
+    "file": "cheer5.png"
+  },
+  {
+    "key": "cheer6",
+    "text": "挺住",
+    "scene": "我在旁边",
+    "tags": [
+      "加油",
+      "撑住",
+      "陪伴"
+    ],
+    "file": "cheer6.png"
+  },
+  {
+    "key": "thanks2",
+    "text": "多谢",
+    "scene": "真的谢谢",
+    "tags": [
+      "谢谢",
+      "感谢",
+      "礼貌"
+    ],
+    "file": "thanks2.png"
+  },
+  {
+    "key": "thanks3",
+    "text": "谢啦",
+    "scene": "记住你了",
+    "tags": [
+      "谢谢",
+      "记住",
+      "感激"
+    ],
+    "file": "thanks3.png"
+  },
+  {
+    "key": "sorry4",
+    "text": "对不起",
+    "scene": "我错了",
+    "tags": [
+      "道歉",
+      "错了",
+      "对不起"
+    ],
+    "file": "sorry4.png"
+  },
+  {
+    "key": "sorry5",
+    "text": "原谅我",
+    "scene": "下次不会",
+    "tags": [
+      "道歉",
+      "原谅",
+      "保证"
+    ],
+    "file": "sorry5.png"
+  },
+  {
+    "key": "sorry6",
+    "text": "别生气嘛",
+    "scene": "我请你吃饭",
+    "tags": [
+      "道歉",
+      "哄",
+      "请客"
+    ],
+    "file": "sorry6.png"
+  },
+  {
+    "key": "morning3",
+    "text": "早上好",
+    "scene": "今天也加油",
+    "tags": [
+      "早安",
+      "加油",
+      "早上"
+    ],
+    "file": "morning3.png"
+  },
+  {
+    "key": "morning4",
+    "text": "起床啦",
+    "scene": "太阳晒屁股",
+    "tags": [
+      "早安",
+      "叫醒",
+      "早上"
+    ],
+    "file": "morning4.png"
+  },
+  {
+    "key": "night2",
+    "text": "好梦",
+    "scene": "梦到我",
+    "tags": [
+      "晚安",
+      "好梦",
+      "睡觉"
+    ],
+    "file": "night2.png"
+  },
+  {
+    "key": "night3",
+    "text": "睡了",
+    "scene": "明天见",
+    "tags": [
+      "睡觉",
+      "晚安",
+      "告别"
+    ],
+    "file": "night3.png"
+  },
+  {
+    "key": "bored2",
+    "text": "好无聊",
+    "scene": "陪我玩",
+    "tags": [
+      "无聊",
+      "陪我",
+      "找乐子"
+    ],
+    "file": "bored2.png"
+  },
+  {
+    "key": "bored3",
+    "text": "没事干",
+    "scene": "发呆中",
+    "tags": [
+      "无聊",
+      "发呆",
+      "闲"
+    ],
+    "file": "bored3.png"
+  },
+  {
+    "key": "fish3",
+    "text": "摸鱼中",
+    "scene": "别告诉老板",
+    "tags": [
+      "摸鱼",
+      "偷懒",
+      "上班"
+    ],
+    "file": "fish3.png"
+  },
+  {
+    "key": "fish4",
+    "text": "划水",
+    "scene": "摸一会儿",
+    "tags": [
+      "摸鱼",
+      "划水",
+      "偷懒"
+    ],
+    "file": "fish4.png"
+  },
+  {
+    "key": "laugh",
+    "text": "笑死",
+    "scene": "绷不住了",
+    "tags": [
+      "笑死",
+      "大笑",
+      "绷不住"
+    ],
+    "file": "laugh.png"
+  },
+  {
+    "key": "laugh2",
+    "text": "哈哈哈",
+    "scene": "停不下来",
+    "tags": [
+      "笑",
+      "开心",
+      "哈哈"
+    ],
+    "file": "laugh2.png"
+  },
+  {
+    "key": "laugh3",
+    "text": "乐死",
+    "scene": "肚子疼",
+    "tags": [
+      "笑",
+      "开心",
+      "乐"
+    ],
+    "file": "laugh3.png"
+  },
+  {
+    "key": "coquetry",
+    "text": "撒娇",
+    "scene": "有用吗",
+    "tags": [
+      "撒娇",
+      "可爱",
+      "求"
+    ],
+    "file": "coquetry.png"
+  },
+  {
+    "key": "coquetry2",
+    "text": "求夸夸",
+    "scene": "快夸我",
+    "tags": [
+      "求夸",
+      "撒娇",
+      "可爱"
+    ],
+    "file": "coquetry2.png"
+  },
+  {
+    "key": "smug2",
+    "text": "厉害吧",
+    "scene": "我超强",
+    "tags": [
+      "得意",
+      "厉害",
+      "求夸"
+    ],
+    "file": "smug2.png"
+  },
+  {
+    "key": "smug3",
+    "text": "哼唧",
+    "scene": "才不承认",
+    "tags": [
+      "傲娇",
+      "得意",
+      "别扭"
+    ],
+    "file": "smug3.png"
+  },
+  {
+    "key": "company",
+    "text": "陪你",
+    "scene": "一直在",
+    "tags": [
+      "陪伴",
+      "暖心",
+      "在"
+    ],
+    "file": "company.png"
+  },
+  {
+    "key": "company2",
+    "text": "我在呢",
+    "scene": "叫我干嘛",
+    "tags": [
+      "陪伴",
+      "在",
+      "回应"
+    ],
+    "file": "company2.png"
+  },
+  {
+    "key": "company3",
+    "text": "别怕",
+    "scene": "有我在",
+    "tags": [
+      "安慰",
+      "陪伴",
+      "别怕"
+    ],
+    "file": "company3.png"
+  },
+  {
+    "key": "rain2",
+    "text": "下雨了",
+    "scene": "记得带伞",
+    "tags": [
+      "下雨",
+      "关心",
+      "提醒"
+    ],
+    "file": "rain2.png"
+  },
+  {
+    "key": "cold3",
+    "text": "好冷啊",
+    "scene": "缩成团",
+    "tags": [
+      "冷",
+      "冬天",
+      "缩"
+    ],
+    "file": "cold3.png"
+  },
+  {
+    "key": "hot2",
+    "text": "热死了",
+    "scene": "化了",
+    "tags": [
+      "热",
+      "夏天",
+      "化"
+    ],
+    "file": "hot2.png"
+  },
+  {
+    "key": "tired2",
+    "text": "好累",
+    "scene": "不想动",
+    "tags": [
+      "累",
+      "疲惫",
+      "休息"
+    ],
+    "file": "tired2.png"
+  },
+  {
+    "key": "tired3",
+    "text": "撑不住",
+    "scene": "想躺平",
+    "tags": [
+      "累",
+      "躺平",
+      "疲惫"
+    ],
+    "file": "tired3.png"
+  },
+  {
+    "key": "work2",
+    "text": "上班中",
+    "scene": "别烦我",
+    "tags": [
+      "上班",
+      "忙",
+      "别烦"
+    ],
+    "file": "work2.png"
+  },
+  {
+    "key": "work3",
+    "text": "加班",
+    "scene": "还没走",
+    "tags": [
+      "加班",
+      "累",
+      "上班"
+    ],
+    "file": "work3.png"
+  },
+  {
+    "key": "study2",
+    "text": "学习",
+    "scene": "脑子进不去",
+    "tags": [
+      "学习",
+      "难",
+      "累"
+    ],
+    "file": "study2.png"
+  },
+  {
+    "key": "exam2",
+    "text": "考试",
+    "scene": "救命啊",
+    "tags": [
+      "考试",
+      "紧张",
+      "救命"
+    ],
+    "file": "exam2.png"
+  },
+  {
+    "key": "game2",
+    "text": "开黑",
+    "scene": "上号",
+    "tags": [
+      "游戏",
+      "开黑",
+      "组队"
+    ],
+    "file": "game2.png"
+  },
+  {
+    "key": "game3",
+    "text": "又输了",
+    "scene": "不服",
+    "tags": [
+      "游戏",
+      "输",
+      "不服"
+    ],
+    "file": "game3.png"
+  },
+  {
+    "key": "game4",
+    "text": "带带我",
+    "scene": "求带",
+    "tags": [
+      "游戏",
+      "求带",
+      "撒娇"
+    ],
+    "file": "game4.png"
+  },
+  {
+    "key": "whale2",
+    "text": "本鲸",
+    "scene": "在此",
+    "tags": [
+      "自称",
+      "鲸鱼",
+      "得意"
+    ],
+    "file": "whale2.png"
+  },
+  {
+    "key": "whale3",
+    "text": "喷水",
+    "scene": "哗——",
+    "tags": [
+      "喷水",
+      "鲸鱼",
+      "玩"
+    ],
+    "file": "whale3.png"
+  },
+  {
+    "key": "whale4",
+    "text": "回深海",
+    "scene": "先走了",
+    "tags": [
+      "深海",
+      "走了",
+      "告别"
+    ],
+    "file": "whale4.png"
+  },
+  {
+    "key": "whale5",
+    "text": "吃白饭",
+    "scene": "第三碗",
+    "tags": [
+      "白饭",
+      "吃",
+      "干饭"
+    ],
+    "file": "whale5.png"
+  }
+]

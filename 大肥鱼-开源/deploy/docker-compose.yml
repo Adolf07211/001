@@ -1,0 +1,34 @@
+services:
+  astrbot:
+    image: soulter/astrbot:latest
+    container_name: astrbot
+    restart: always
+    ports:
+      - "6185:6185"
+    volumes:
+      - ./data:/AstrBot/data
+    environment:
+      - TZ=Asia/Shanghai
+      - WHALE_TARGET_UIN=${WHALE_TARGET_UIN}
+      - WHALE_VIEWERS=${WHALE_VIEWERS}
+    networks: [bot]
+
+  napcat:
+    image: mlikiowa/napcat-docker:latest
+    container_name: napcat
+    restart: always
+    ports:
+      - "6099:6099"
+    volumes:
+      - ./napcat/config:/app/napcat/config
+      - ./napcat/cache:/app/napcat/cache
+    environment:
+      - TZ=Asia/Shanghai
+      - NAPCAT_UID=1000
+      - NAPCAT_GID=1000
+    depends_on: [astrbot]
+    networks: [bot]
+
+networks:
+  bot:
+    driver: bridge
